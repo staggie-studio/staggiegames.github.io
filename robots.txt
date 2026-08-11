@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staggiegames.com/sitemap.xml
